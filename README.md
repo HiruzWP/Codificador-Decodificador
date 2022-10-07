@@ -40,4 +40,4 @@
 
 `◽CSS`
 
-`◽VisualStudioCode`
+`◽Visual Studio Code`
